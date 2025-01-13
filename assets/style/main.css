@@ -9,6 +9,18 @@ body {
   height: 100vh;
   background-color: rgb(56, 122, 235);
 }
+header {
+  padding: 40px 50px ;
+}
+.moon {
+  background-color: #080808;
+  
+}
+.fa-moon {
+  font-size: 30px;
+  color: white;
+}
+
 .tack {
   background-color: aliceblue;
   font-weight: bold;
