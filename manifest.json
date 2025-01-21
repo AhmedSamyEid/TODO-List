@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "Any",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://ahmedsamyeid.github.io/TODO-List/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
